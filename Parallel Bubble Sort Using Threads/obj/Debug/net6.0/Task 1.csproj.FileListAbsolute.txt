@@ -1,0 +1,30 @@
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Task 1/bin/Debug/net6.0/Task 1
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Task 1/bin/Debug/net6.0/Task 1.deps.json
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Task 1/bin/Debug/net6.0/Task 1.runtimeconfig.json
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Task 1/bin/Debug/net6.0/Task 1.dll
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Task 1/bin/Debug/net6.0/Task 1.pdb
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Task 1/obj/Debug/net6.0/Task 1.csproj.AssemblyReference.cache
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Task 1/obj/Debug/net6.0/Task 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Task 1/obj/Debug/net6.0/Task 1.AssemblyInfoInputs.cache
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Task 1/obj/Debug/net6.0/Task 1.AssemblyInfo.cs
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Task 1/obj/Debug/net6.0/Task 1.csproj.CoreCompileInputs.cache
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Task 1/obj/Debug/net6.0/Task 1.dll
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Task 1/obj/Debug/net6.0/refint/Task 1.dll
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Task 1/obj/Debug/net6.0/Task 1.pdb
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Task 1/obj/Debug/net6.0/Task 1.genruntimeconfig.cache
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Task 1/obj/Debug/net6.0/ref/Task 1.dll
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Parallel Bubble Sort Using Threads/bin/Debug/net6.0/Task 1
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Parallel Bubble Sort Using Threads/bin/Debug/net6.0/Task 1.deps.json
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Parallel Bubble Sort Using Threads/bin/Debug/net6.0/Task 1.runtimeconfig.json
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Parallel Bubble Sort Using Threads/bin/Debug/net6.0/Task 1.dll
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Parallel Bubble Sort Using Threads/bin/Debug/net6.0/Task 1.pdb
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Parallel Bubble Sort Using Threads/obj/Debug/net6.0/Task 1.csproj.AssemblyReference.cache
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Parallel Bubble Sort Using Threads/obj/Debug/net6.0/Task 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Parallel Bubble Sort Using Threads/obj/Debug/net6.0/Task 1.AssemblyInfoInputs.cache
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Parallel Bubble Sort Using Threads/obj/Debug/net6.0/Task 1.AssemblyInfo.cs
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Parallel Bubble Sort Using Threads/obj/Debug/net6.0/Task 1.csproj.CoreCompileInputs.cache
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Parallel Bubble Sort Using Threads/obj/Debug/net6.0/Task 1.dll
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Parallel Bubble Sort Using Threads/obj/Debug/net6.0/refint/Task 1.dll
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Parallel Bubble Sort Using Threads/obj/Debug/net6.0/Task 1.pdb
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Parallel Bubble Sort Using Threads/obj/Debug/net6.0/Task 1.genruntimeconfig.cache
+/Users/arioanindito/Documents/VUM/Year 3/Winter/Parallel Files/Parallel Bubble Sort Using Threads/obj/Debug/net6.0/ref/Task 1.dll
